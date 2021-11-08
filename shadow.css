@@ -1,0 +1,13 @@
+h1 {
+    color: darkkhaki;
+    font-size: 100px;
+    letter-spacing: 2px;
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 0px;
+    padding: 20px;
+    text-shadow: -10px 8px 1px black;
+ }
+ body {
+     background-color: darkslategray;
+ }
